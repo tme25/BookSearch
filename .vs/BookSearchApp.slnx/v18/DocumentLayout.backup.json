@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\misha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OpenLibrary\\\u041F\u0440\u043E\u0435\u043A\u0442\\BookSearchApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F22AD2E0-9A8B-4D9C-8B93-A774862A60C9}|BookSearchApp.csproj|c:\\users\\misha\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\openlibrary\\\u043F\u0440\u043E\u0435\u043A\u0442\\booksearchapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F22AD2E0-9A8B-4D9C-8B93-A774862A60C9}|BookSearchApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{997DC514-2948-F8B7-CCE8-0FCE2DC9BFE6}|BookSearchApp.csproj|c:\\users\\misha\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\openlibrary\\\u043F\u0440\u043E\u0435\u043A\u0442\\booksearchapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{997DC514-2948-F8B7-CCE8-0FCE2DC9BFE6}|BookSearchApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\misha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\OpenLibrary\\\u041F\u0440\u043E\u0435\u043A\u0442\\BookSearchApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-15T07:40:42.798Z",
               "EditorCaption": ""
